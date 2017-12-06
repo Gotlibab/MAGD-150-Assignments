@@ -40,7 +40,7 @@ Randomly generated tree with a sun and planes in the background.
 [Mirror Example](https://github.com/Gotlibab/MAGD-150-Assignments/blob/master/Assignment%20Seven.pde)
 
 ## Example 8
-Variation of text and font that move across the screen
+Variation of text and font that move across the screen.
 
 [Mirror Example](https://github.com/Gotlibab/MAGD-150-Assignments/blob/master/Assignment%20Eight.pde)
 
@@ -50,6 +50,6 @@ Live camera in mirror upon keypress, also includes a microphone detector and sou
 [Mirror Example](https://github.com/Gotlibab/MAGD-150-Assignments/blob/master/Assignment%20Nine.pde)
 
 ## Example 10
-Textured objects move around with a camera and change from perspective to orthographic and vice versa upon mouse click
+Textured objects move around with a camera and change from perspective to orthographic and vice versa upon mouse click.
 
 [Mirror Example](https://github.com/Gotlibab/MAGD-150-Assignments/blob/master/Assignment%20Ten.pde)
