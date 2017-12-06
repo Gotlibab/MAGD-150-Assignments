@@ -15,7 +15,7 @@ Balloons with a triangle shine.
 [Mirror Example](https://github.com/Gotlibab/MAGD-150-Assignments/blob/master/Assignment%20Two.pde)
 
 ## Example 3
-Bubble traveling upwards changed shades during ascension.
+Bubble traveling upwards, changes shades during ascension.
 
 [Mirror Example](https://github.com/Gotlibab/MAGD-150-Assignments/blob/master/Assignment%20Three.pde)
 
@@ -25,7 +25,7 @@ Bouncy ball that changes colors upon click.
 [Mirror Example](https://github.com/Gotlibab/MAGD-150-Assignments/blob/master/Assignment%20Four.pde)
 
 ## Example 5
-Text upon click within a shape and shrinking and enlarging circles.
+Text upon clicking within a shape as well as shrinking and enlarging circles.
 
 [Mirror Example](https://github.com/Gotlibab/MAGD-150-Assignments/blob/master/Assignment%20Five.pde)
 
